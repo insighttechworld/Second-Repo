@@ -1,9 +1,13 @@
 #!/bin/bash
 #
-#Description:
+#Description: e-COmmerce WebServere
 #
-#Purpose:
+#Purpose: Refarctoring of Magento App
 #
-#Date:
+#Date: Oct 03, 2021
 #
-#Author:
+#Author: Olufemi Amosu
+
+clear
+
+
